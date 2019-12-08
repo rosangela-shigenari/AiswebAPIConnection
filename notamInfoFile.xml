@@ -1,0 +1,2150 @@
+<?xml version="1.0" encoding="UTF-8"?><aisweb>
+        <notam id="d1d08a34-d970-43f3-9b694a25a45b609a" total="59" updatedat="2019-12-08 21:52:00">
+                <item id="6599553">	
+                    <id>6599553</id>	
+                    <cod>QMXXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-12-03 13:07:00</dt>
+                    <n>Z1396/19</n>                    
+                    <ref>Z1387/19</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912031307</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[TWY MODIFICADA PARA:
+TWY DELTA: WID 24M
+TWY ECHO: WID 24M
+TWY GOLF: WID 25M
+TWY HOTEL BTN TWY ALPHA E BRAVO: WID 41M PCN 100/F/B/X/T
+TWY KILO: PCN 100/F/B/W/T
+TWY PAPA: WID 24M
+TWY QUEBEC: WID 25M PCN 100/F/B/X/T
+TWY SIERRA BTN TWY GOLF E TANGO: WID 17M
+TWY SIERRA BTN TWY TANGO E UNIFORM: WID 17M
+TWY CHARLIE CHARLIE: WID 26M
+TWY FOXTROT FOXTROT: WID 27M
+REF: AIP AD 2]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1048 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6599526">	
+                    <id>6599526</id>	
+                    <cod>QMXCS</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-12-03 12:57:00</dt>
+                    <n>Z1395/19</n>                    
+                    <ref>Z1389/19</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912031257</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[TWY INSTL :
+1- TWY VICTOR
+LARGURA 23M
+TIPO DE PISO ASPH
+RESISTENCIA PCN 69/F/A/W/T
+2- TWY YANKEE BTN PATIOS 1 E 4
+LARGURA 23M
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+3- TWY YANKEE PATIO 5
+LARGURA 23M
+TIPO DE PISO ASPH
+RESISTENCIA PCN 84/F/B/W/T
+4- TWY YANKEE 1
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+5- TWY YANKEE 2 WHISKEY
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+6- TWY YANKEE 2
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+7- TWY YANKEE 2 ECHO
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+8- TWY YANKEE 3 WHISKEY
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+9- TWY YANKEE 3
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+10- TWY YANKEE 3 ECHO
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+11- TWY YANKEE 4 WHISKEY
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+12- TWY YANKEE 4
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+13- TWY YANKEE 4 ECHO
+TIPO DE PISO ASPH
+RESISTENCIA PCN 59/F/B/W/T
+14- TWY YANKEE 5 WHISKEY
+TIPO DE PISO ASPH
+RESISTENCIA PCN 84/F/B/W/T
+15- TWY YANKEE 5
+TIPO DE PISO ASPH
+RESISTENCIA PCN 100/F/B/W/T
+16- TWY YANKEE 5 ECHO
+TIPO DE PISO ASPH
+RESISTENCIA PCN 100/F/B/W/T
+17- TWY YANKEE 6 WHISKEY
+TIPO DE PISO ASPH
+RESISTENCIA PCN 100/F/B/W/T
+18- TWY YANKEE 6
+TIPO DE PISO ASPH
+RESISTENCIA PCN 100/F/B/W/T
+19- TWY YANKEE 6 ECHO
+TIPO DE PISO ASPH
+RESISTENCIA PCN 100/F/B/W/T
+20- TWY YANKEE 7 WHISKEY
+TIPO DE PISO ASPH
+RESISTENCIA PCN 69/F/A/X/T
+21- TWY YANKEE 7
+TIPO DE PISO ASPH
+RESISTENCIA PCN 69/F/A/X/T
+22- TWY YANKEE 7 ECHO
+TIPO DE PISO ASPH
+RESISTENCIA PCN 69/F/A/X/T
+23- TWY YANKEE 9
+LARGURA 23M
+TIPO DE PISO CONC
+RESISTENCIA PCN 85/R/B/X/T
+24- TWY YANKEE 9 ECHO
+LARGURA 23M
+TIPO DE PISO ASPH
+RESISTENCIA PCN 95/F/B/X/T
+REF: AIP AD 2]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1046 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6599404">	
+                    <id>6599404</id>	
+                    <cod>QMPCS</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-12-03 12:08:00</dt>
+                    <n>Z1394/19</n>                    
+                    <ref>Z1385/19</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912031208</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[POSICOES DE ACFT INSTL:
+701L - 232534,96S / 0462808,51W
+701 - 232534,48S / 0462809,63W
+701R - 232533,97S / 0462809,91W
+702L - 232532,43S / 0462809,30W
+702 - 232531,97S / 0462810,42W
+702R - 232531,44S / 0462810,71W
+703L - 232529,90S / 0462810,10W
+703 - 232529,46S / 0462811,21W
+703R - 232528,91S / 0462811,50W
+713L - 232527,01S / 0462804,46W
+713 - 232527,47S / 0462803,25W
+713R - 232528,28S / 0462804,06W
+714L - 232529,54S / 0462803,66W
+714A - 232529,57S / 0462802,62W
+714 - 232530,00S / 0462802,45W
+714R - 232530,80S / 0462803,26W
+715L - 232532,07S / 0462802,86W
+715 - 232532,31S / 0462801,75W
+715R - 232533,33S / 0462802,46W
+REF: AIP AD 2
+AIP MAP ADC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1045 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6599379">	
+                    <id>6599379</id>	
+                    <cod>QMXXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-12-03 11:56:00</dt>
+                    <n>Z1393/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912031156</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[TWY BRAVO BRAVO, CHARLIE CHARLIE, DELTA DELTA, FOXTROT FOXTROT MODIFICADAS PARA TWY DE SAIDA RAPIDA
+REF: AIP AD 2
+AIP MAP ADC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1044 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6598310">	
+                    <id>6598310</id>	
+                    <cod>QMDCH</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-12-02 20:47:00</dt>
+                    <n>Z1391/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912022047</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[DIST DECLARADAS RWY 09R/27L MODIFICADAS PARA:
+TORA TODA ASDA LDA
+RWY 09R 3000M 3300M 3000M 3000M
+RWY 27L 3000M 3000M 3000M 3000M
+REF: AIP AD 2
+AIP MAP ADC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1043 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6598309">	
+                    <id>6598309</id>	
+                    <cod>QMWXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-12-02 20:46:00</dt>
+                    <n>Z1390/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912022046</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[FAIXA DE PISTA (STRIP) RWY 09R/27L MODIFICADA PARA 3120MX280M
+REF: AIP BRASIL AD 2
+AIP MAP ADC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1042 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>W</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6598304">	
+                    <id>6598304</id>	
+                    <cod>QMXXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-12-02 20:44:00</dt>
+                    <n>Z1388/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912022044</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[TWY INSERIR INFO:
+TWY MIKE
+LARGURA 45M
+TIPO DE PISO ASPH
+RESISTENCIA PCN 69/F/A/X/T
+REF: AIP AD 2]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1035 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6598289">	
+                    <id>6598289</id>	
+                    <cod>QMXCS</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-12-02 20:36:00</dt>
+                    <n>Z1386/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912022036</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[TWY VICTOR INSTL
+LARGURA 23M
+ENVERGADURA MAX ACFT 65M
+PISO ASPH PCN 69/F/A/X/T
+REF: AIP AD2
+AIP MAP ADC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1030 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6598286">	
+                    <id>6598286</id>	
+                    <cod>QMNCS</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-12-02 20:34:00</dt>
+                    <n>Z1384/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912022034</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[PATIO 7 INSTL
+PISO CONC PCN 87/R/B/W/T
+PISO ASPH 69/F/A/X/T
+REF: AIP AD 2
+AIP MAP ADC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1028 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>B</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6598285">	
+                    <id>6598285</id>	
+                    <cod>QMNXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-12-02 20:33:00</dt>
+                    <n>Z1383/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1912022033</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[PATIO 7 MIL IDENT MODIFICADA PARA PATIO 13 MIL
+REF: AIP AD 2
+AIP MAP ADC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 1027 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6591979">	
+                    <id>6591979</id>	
+                    <cod>QFAXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-11-27 14:58:00</dt>
+                    <n>Z1346/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1911271458</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[AD OPS SEGREGADAS SOB VMC MODIFICADO:
+DE:
+- OS MNM OPR DO AD PARA OPS SEGREGADAS SOB VMC SAO TETO DE 1500FT
+E VISIBILIDADE DE 5000M
+- INFORMAR VMC A TWR, AO INGRESSAR NA FINAL DA PISTA EM USO, CONFORME
+A FRASEOLOGIA APRESENTADA ABAIXO
+PARA:
+- OS MNM OPR DO AD PARA OPS SEGREGADAS SOB VMC SAO TETO DE
+1000FT E VIS DE 5000M
+- REP A TWR EM CASO DE PERDA DE REFERENCIAS VISUAIS NA FNA. AO
+NAO REP, INDICARA AO ATC QUE O PILOTO EM COMANDO POSSUI REFERENCIAS
+VISUAIS BLW 1000FT E QUE A SEPARACAO VISUAL SERA APLICADA EM CASO DE
+ARREMETIDA
+REF: AIP AD 2.20]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 980 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6587001">	
+                    <id>6587001</id>	
+                    <cod>QPDXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-11-22 22:16:00</dt>
+                    <n>Z1332/19</n>                    
+                    <ref>Z1331/19</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1911222216</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[SID RNAV ROMIB 3A - SUMRA 3A RWY 27R E SID RNAV CGO 1E RWY 27R MODIFICAR NA PLANTA:
+DE HDG 275 WPT EVNEB WPT TIKTI
+PARA HDG 275 WPT ISNAP (2327.60S/04634.69W) WPT TIKTI
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 961 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6584729">	
+                    <id>6584729</id>	
+                    <cod>QATXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-11-21 13:16:00</dt>
+                    <n>Z1324/19</n>                    
+                    <ref>Z4458/16</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1911211316</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[TMA - EM VIRTUDE DOS REQUISITOS OPERACIONAIS NECESSARIOS PARA AS
+STAR E/OU SID NA AREA TERMINAL DE SAO PAULO, A UTILIZACAO DAS ROTAS
+RNAV 5, SAINDO OU CHEGANDO DO AD SERA DESTINADA EXCLUSIVAMENTE PARA
+AS AERONAVES HOMOLOGADAS RNAV 1 OU RNP 1
+REF: AIP AD 2.22]]></e>
+                    <f>FL055</f>    
+                    <g>FL195</g>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2331S04635W073</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM3_NOF / 1292 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>AE</scope>
+                    <limits>055/195</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6582433">	
+                    <id>6582433</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-11-20 03:46:00</dt>
+                    <n>D1944/19</n>                    
+                    <ref>D1938/19</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1911200346</b>
+                    <c>2001022359</c>
+                    <d/>
+                    <e><![CDATA[IAP Y OU/OR LOC Y RWY 09R INSERIR  ALT MNM DE 3200FT BTN EVNEB E 2.8NM PARA THR 09R PARA PROC LOC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBSP</nof>
+                    <s>D</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM3_NOF / 1273 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>BO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6582419">	
+                    <id>6582419</id>	
+                    <cod>QRTCA</cod>
+                    <status>N</status>
+                    <cat>NAV</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-11-20 03:01:00</dt>
+                    <n>D1943/19</n>                    
+                    <ref>D1942/19</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>2001010250</b>
+                    <c>2001010310</c>
+                    <d/>
+                    <e><![CDATA[AREA RESTRITA TEMPORARIAMENTE (SHOW PIROTECNICO) COORD 232705S/0462923W RAIO 20M ACT]]></e>
+                    <f>SFC</f>    
+                    <g>2600FT</g>     
+                    <nof>SBSP</nof>
+                    <s>D</s>       
+                    <geo>2327S04629W001</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM3_NOF / 1272 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>BO</purpose>
+                    <scope>W</scope>
+                    <limits>000/030</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6581915">	
+                    <id>6581915</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-11-19 18:11:00</dt>
+                    <n>Z1314/19</n>                    
+                    <ref>Z1313/19</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1911191809</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP ILS Q OU/OR LOC Q RWY 09R INSERIR  ALT MNM DE 3200FT BTN EVNEB E 2.8NM PARA THR 09R PARA PROC LOC
+REF: AIP MAP IAC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 925 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>BO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6572941">	
+                    <id>6572941</id>	
+                    <cod>QICAS</cod>
+                    <status>N</status>
+                    <cat>CNS</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-11-12 17:05:00</dt>
+                    <n>D1907/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1911121705</b>
+                    <c>2002092000</c>
+                    <d/>
+                    <e><![CDATA[ILS RWY 09R U/S]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBSP</nof>
+                    <s>D</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM3_NOF / 1169 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6550190">	
+                    <id>6550190</id>	
+                    <cod>QPACH</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2019-10-25 13:13:00</dt>
+                    <n>Z1237/19</n>                    
+                    <ref>Z0071/19</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1910251313</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[STAR EVSOV 2B - IBDIK 2B RWY 27L/27R  E STAR ANSUG 2B - TBE 2B RWY 09L/09R MODIFICAR MSA PARA:
+MSA 25NM BCO 090 /270 DEG ALT 7000FT E 270/090 DEG ALT 6000FT
+REF.: STAR EVSOV 2B - IBDIK 2B RWY 27L/27R
+STAR ANSUG 2B - TBE 2B RWY 09L/09R]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 751 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6542301">	
+                    <id>6542301</id>	
+                    <cod>QIMAS</cod>
+                    <status>N</status>
+                    <cat>CNS</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-10-19 22:26:00</dt>
+                    <n>D1744/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1910192226</b>
+                    <c>1912192100</c>
+                    <d/>
+                    <e><![CDATA[ILS MM RWY 27R U/S]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBSP</nof>
+                    <s>D</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM3_NOF / 964 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>BO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6541342">	
+                    <id>6541342</id>	
+                    <cod>QMTXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-10-18 14:42:00</dt>
+                    <n>Z1223/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1910181442</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[THR 09L CORRIGIR COORD PARA 23°26'03,4107''S/046°29'00,1047''W ELEV 745,46M E THR 27R CORRIGIR COORD PARA 23°25'30,1679''S/046°26'57,0593''W ELEV 744,07M
+REF: AIP BRASIL AD 2
+AIP MAP ADC
+IAC ILS U OU/OR LOC U RWY 09L,
+IAC ILS W CAT II RWY 09L,
+IAC ILS X OU/OR LOC X RWY 09L,
+IAC ILS X OU/OR LOC X RWY 27R,
+IAC ILS Y OU/OR LOC Y RWY 27R,
+IAC RNAV (GNSS) Y RWY 27R,
+IAC RNAV (GNSS) Z RWY 09L,
+IAC RNAV GNSS Z RWY 09L,
+IAC VOR RWY 09L,
+IAC VOR RWY 27R]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 717 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6541340">	
+                    <id>6541340</id>	
+                    <cod>QMTXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-10-18 14:40:00</dt>
+                    <n>Z1222/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1910181440</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[THR 09R CORRIGIR COORD PARA 23°26'19,6717''S/046°29'13,2969''W ELEV 747,16M E THR 27L CORRIGIR COORD PARA 23°25'52,2791''S/046°27'31,8773''W ELEV 745,58M
+REF: AIP BRASIL AD 2
+AIP MAP ADC
+IAC ILS O OU/OR LOC O RWY 27L,
+IAC ILS Q OU/ OR LOC Q RWY 09R,
+IAC ILS R OU/OR LOC R RWY 09R,
+IAC ILS S OU/OR LOC S RWY 09R,
+IAC ILS T OU/OR LOC T RWY 09R,
+IAC ILS V CAT II E/AND CAT III RWY 09R,
+IAC ILS V OU/OR LOC V RWY 27L,
+IAC ILS X OU/OR LOC X RWY 27L,
+IAC ILS Y OU/OR LOC Y RWY 09R,
+IAC ILS Y OU LOC Y RWY 27L,
+IAC ILS Z CAT II & III RWY 09R,
+IAC RNAV(GNSS) U RWY 09R,
+IAC RNAV (GNSS) V RWY 09R,
+IAC RNAV(GNSS) W RWY 27L,
+IAC RNAV (GNSS) Y RWY 27L,
+IAC RNAV (RNP) W RWY 09R,
+IAC RNAV (RNP) X RWY 09R,
+IAC RNAV GNSS V RWY 09R,
+IAC VOR RWY09R,
+IAC VOR RWY27L]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 716 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6533734">	
+                    <id>6533734</id>	
+                    <cod>QMRLC</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-10-11 19:17:00</dt>
+                    <n>Z1198/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1910160330</b>
+                    <c>PERM</c>
+                    <d>WED THU 0330-0800</d>
+                    <e><![CDATA[RWY 09R/27L CLSD DEVIDO SER MAINT
+REF: AIP AD 2.12]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 662 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6533108">	
+                    <id>6533108</id>	
+                    <cod>QMRLC</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-10-11 13:47:00</dt>
+                    <n>Z1192/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1910210445</b>
+                    <c>PERM</c>
+                    <d>MON 0445-0759 TUE 0445-0659</d>
+                    <e><![CDATA[RWY 09L/27R CLSD DEVIDO SER MAINT
+REF: AIP AD 2.12]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 659 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6515097">	
+                    <id>6515097</id>	
+                    <cod>QOBCE</cod>
+                    <status>N</status>
+                    <cat>OTR</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-09-26 23:17:00</dt>
+                    <n>D1572/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1909262317</b>
+                    <c>1912232359</c>
+                    <d/>
+                    <e><![CDATA[OBST MONTADO (MASTRO METALICO) LGTD ALT OTP 787M (2582FT) AMSL NAS COORD 232613.40S/0462758.00W (GUARULHOS, SP)]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBSP</nof>
+                    <s>D</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>OAISSP / 1083 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>AE</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6494277">	
+                    <id>6494277</id>	
+                    <cod>QICAS</cod>
+                    <status>N</status>
+                    <cat>CNS</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-09-12 03:01:00</dt>
+                    <n>D1483/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1909120301</b>
+                    <c>1912110100</c>
+                    <d/>
+                    <e><![CDATA[ILS IBC RWY 27L 111.10MHZ U/S]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBSP</nof>
+                    <s>D</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM3_NOF / 665 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6466441">	
+                    <id>6466441</id>	
+                    <cod>QILXX</cod>
+                    <status>N</status>
+                    <cat>CNS</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-08-22 17:41:00</dt>
+                    <n>Z1030/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1908221741</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[ILS LOC IGS RWY 27R CORRIGIR:
+- COORD PARA 232608.0633S/0462917.3491W
+- ELEV PARA 744.31M
+REF: AIP AD 2.19]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 195 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6466440">	
+                    <id>6466440</id>	
+                    <cod>QILXX</cod>
+                    <status>N</status>
+                    <cat>CNS</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-08-22 17:38:00</dt>
+                    <n>Z1029/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1908221738</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[ILS LOC IUC RWY 09L CORRIGIR COORD PARA 232524.6934S/0462636.8026W
+REF: AIP AD 2.19]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>AIM2 / 196 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6385328">	
+                    <id>6385328</id>	
+                    <cod>QOBCE</cod>
+                    <status>N</status>
+                    <cat>OTR</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-06-25 14:08:00</dt>
+                    <n>Z0753/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1909120000</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[OBST (EDIFICACAO) LGTD COORD 232620.62S/0462448.23W ELEV 813,85M MONTADO
+REF: AIP BRASIL AD 2]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>SRAS / 730 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>AE</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6383654">	
+                    <id>6383654</id>	
+                    <cod>QOBCE</cod>
+                    <status>N</status>
+                    <cat>OTR</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-06-24 15:56:00</dt>
+                    <n>Z0750/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1909120000</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[OBST (EDIFICACAO) LGTD COORD 232557.31S/0462500.62W ELEV 810,00M MONTADO
+REF: AIP BRASIL AD 2]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>SRAS/722/2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>AE</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6376317">	
+                    <id>6376317</id>	
+                    <cod>QOBCE</cod>
+                    <status>N</status>
+                    <cat>OTR</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-06-19 17:46:00</dt>
+                    <n>Z0641/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1906191746</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[OBST (EDIFICACAO) LGTD COORD 232533.27S/0463108.89W ELEV 802,40M MONTADO
+REF: AIP BRASIL AD 2]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>SRAS / 715 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>AE</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6357689">	
+                    <id>6357689</id>	
+                    <cod>QPDCH</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-06-07 13:32:00</dt>
+                    <n>Z0516/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1906071332</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[SID RNAV ROMIB 2C - DETIP 2C RWY 27L/27R IAS MAX NO FIXO GIBDI MODIFICADO DE 190KT PARA 250KT
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>SRAS / 660 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6287887">	
+                    <id>6287887</id>	
+                    <cod>QPDCH</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-04-22 18:05:00</dt>
+                    <n>Z0306/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1904221805</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[SID RNAV ROMIB 3A - SUMRA 3A RWY 27L/27R MODIFICADO IAS MAX NO FIXO TIKTI DE 190KT PARA 230KT
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>SRAS/387/2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6239455">	
+                    <id>6239455</id>	
+                    <cod>QPAXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-03-22 19:15:00</dt>
+                    <n>Z0246/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1903221915</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[STAR ILSOR 1B RWY 09L/09R CORRIGIR NO QUADRO FALHA DE COMUNICACAO PARA:
+COMPLETE CHEGADA ATE MARPU E EXECUTE PROCEDIMENTO AUTORIZADO PELO ATC. OU, SE DURANTE VETORACAO NA PROA 300, MANTER ESTA PROA, ALTITUDE MNM 7000', ATE 28 NM VOR/DME BCO. CURVAR A ESQUERDA, PROA 140 PARA INTERCEPTAR A APROXIMACAO FINAL.
+REF: AIP MAP STAR]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>SRAS / 291 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6222346">	
+                    <id>6222346</id>	
+                    <cod>QPDCH</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2019-03-12 23:42:00</dt>
+                    <n>Z0203/19</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1903122342</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[SID RNAV CGO 1C - ISIMU 1C RWY 09R/09L
+SID RNAV CGO 1E RWY 27R/27L
+MODIFICAR  NDB RCL PELO WPT GERTU NA PLANTA
+REF.:AIP-MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>SRAS / 114 / 2019</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="6059737">	
+                    <id>6059737</id>	
+                    <cod>QPDAW</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2018-11-08 19:05:00</dt>
+                    <n>Z1996/18</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1811081905</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[SID RETIRADO NO QUADRO DE RMK AS INFO DE MNM PARA DEP
+REF: AIP MAP SID (TODAS)]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>SRAS / 354 / 2018</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5992138">	
+                    <id>5992138</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2018-09-18 13:00:00</dt>
+                    <n>Z1456/18</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1809181300</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP RNAV (GNSS) Y RWY 27R CNL SEGUINTE INFO:
+APROXIMACAO VISUAL RWY 27L: EM CASO DE APROXIMACAO PERDIDA, SUBIR
+PARA 7000 FT, RUMO 275, GRD MNM 5 POR CENTO A 3300 FT, CURVAR A
+ESQUERDA PARA ESPERA EM RAFA. MAX IAS 230KT
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>NOF / 1732 / 2018</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5991850">	
+                    <id>5991850</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2018-09-18 10:38:00</dt>
+                    <n>Z1455/18</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1809181038</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP ILS X OU/OR LOC X RWY 27R CNL SEGUINTE INFO:
+APROXIMACAO VISUAL RWY 27L: EM CASO DE APROXIMACAO PERDIDA, SUBIR
+PARA 7000 FT, RUMO 275, GRD MNM 5 POR CENTO A 3300 FT, CURVAR A
+ESQUERDA PARA ESPERA EM RAFA. MAX IAS 230KT
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z0826/CGN/200416</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>BO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5906519">	
+                    <id>5906519</id>	
+                    <cod>QIGXX</cod>
+                    <status>N</status>
+                    <cat>CNS</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2018-08-01 17:56:00</dt>
+                    <n>Z1306/18</n>                    
+                    <ref>Z1168/18</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1808011756</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[ILS GP IGS RWY 27R INSERIR FREQ. 331.10MHZ HR SER H24 
+COORD 23 25 38.1S 046 27 07.1W ELEV DA ANTENA DO DME 743.40M
+REF.: AIP-BRASIL AD 2.19]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>1175/ICA/010818</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5849494">	
+                    <id>5849494</id>	
+                    <cod>QNBAW</cod>
+                    <status>N</status>
+                    <cat>CNS</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2018-06-07 16:50:00</dt>
+                    <n>Z0958/18</n>                    
+                    <ref>Z3482/17</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1806071653</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[NDB IB 240 KHZ RETIRADO
+REF: AIP-MAP IAC ILS X OU/OR LOC X RWY 27L
+IAC ILS X OU/OR LOC X RWY 27R
+IAC ILS Y OU/OR LOC Y RWY 27R
+IAC ILS V OU/OR LOC V RWY 27L
+SID DORLU 1B - IVRAG 1B - SCP 1B - GENKO 1B RWY 09L/09R]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>0852/ICA/070618</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>BO</purpose>
+                    <scope>AE</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5784524">	
+                    <id>5784524</id>	
+                    <cod>QOBCE</cod>
+                    <status>N</status>
+                    <cat>OTR</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2018-04-25 17:23:00</dt>
+                    <n>Z0805/18</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1804251724</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[OBST (EDIFICACAO) LGTD MONTADO COORD 232708.90S/0462833.10W ELEV 797,00M 
+REF: AIP MAP VAC
+        ROTAER 3-S]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>0648/ICA/250418</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>AE</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5765086">	
+                    <id>5765086</id>	
+                    <cod>QPAXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2018-04-12 18:00:00</dt>
+                    <n>Z0711/18</n>                    
+                    <ref>Z0690/18</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1804121801</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[STAR RNAV PUPSI 1A RWY 09R/09L BTN GR072 E UTBUR CORRIGIR RUMO DE 274 PARA 269
+REF.: AIP-MAP 
+          STAR RNAV PUPSI 1A RWY 09R/09L]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>0586/ICA/120418</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5717160">	
+                    <id>5717160</id>	
+                    <cod>QOBCE</cod>
+                    <status>N</status>
+                    <cat>OTR</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2018-03-12 19:52:00</dt>
+                    <n>Z0528/18</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1803121954</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[OBST ILUMINADO(TORRE), COORD 23 28 02.40S 046 26 34.10W 
+ELEV 30M MONTADO
+REF: ROTAER 3-G
+AIP BRASIL AD 2
+AIP MAP VAC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>0373/ICA/120318</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>AE</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5560140">	
+                    <id>5560140</id>	
+                    <cod>QPACH</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2017-11-23 17:23:00</dt>
+                    <n>Z3989/17</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1711231722</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[STAR EVSOV 2B IBDIK 2B RWY 27L/27R MODIFICAR ALT MIN DA MSA DE 2300FT PARA 6000FT
+REF. AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>2328/ICA/231117</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5532279">	
+                    <id>5532279</id>	
+                    <cod>QPICH</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2017-11-01 00:52:00</dt>
+                    <n>Z3791/17</n>                    
+                    <ref>Z3790/17</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1711010048</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP RNAV (GNSS) Y RWY 27R MODIFICAR NO QUADRO POUSO DIRETO AS SEGUINTES INFO:
+OCH (PROC LNAV): 750FT 
+MDA: 3190FT
+VIS:  CAT A - 750M (ALS)  / 1600M(NO ALS) 
+        CAT B - 1200M (ALS) / 2000M(NO ALS)
+        CAT C,D,E - 2700 (ALS) / 3500(NO ALS)
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>0122/CN/011117</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5515823">	
+                    <id>5515823</id>	
+                    <cod>QFAXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2017-10-18 18:04:00</dt>
+                    <n>Z3699/17</n>                    
+                    <ref>Z2621/17</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1710181802</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[AD PRB OPS LDG BTN 0800-1400 E 2200-0300 DE ACFT QUE NAO POSSAM
+MNTN PELO MENOS 200KT IAS TIL IAF E 140KT IAS TIL FAF.EXC ACFT
+MIL E AQUELAS QUE OPERAM SEGUNDO REGULAMENTO BRASILEIRO DE AVIACAO
+CIVIL(RBAC)121 E 129
+REF: ROTAER 3-S
+     AIP BRASIL ENR 2.1.1
+     AIP BRASIL AD 2.20]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>0289/DCCO4-ATM/171017</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5449880">	
+                    <id>5449880</id>	
+                    <cod>QFAXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2017-08-30 18:44:00</dt>
+                    <n>Z2620/17</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1710140000</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[AD PRB OPS TKOF BTN 0800-1400 E 2200-0300 DE ACFT QUE NAO POSSAM
+RCH E MNTN PELO MENOS 200KT IAS TIL 05NM DA THR OPOSTA OU
+CRUZAR 6000FT  BFR 05NM DA THR OPOSTA. EXC ACFT MIL E AQUELAS
+QUE OPERAM SEGUNDO REGULAMENTO BRASILEIRO DE AVIACAO CIVIL(RBAC)
+121 E 129
+REF: ROTAER 3-S
+     AIP BRASIL ENR 2.1.1
+     AIP BRASIL AD 2.20]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>0216/DCCO4-ATM/300817</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5430160">	
+                    <id>5430160</id>	
+                    <cod>QMRXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2017-08-16 14:52:00</dt>
+                    <n>Z2469/17</n>                    
+                    <ref>Z0095/17</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1708161452</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[RWY 09R TIPO OPR MODIFICADO PARA:
+RWY 09R: VFR/IFR - CAT IIIA - DIURNA/NOTURNA
+
+REF: AIP MAP ADC]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>1563/ICA/160817</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5197214">	
+                    <id>5197214</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2017-03-06 19:27:00</dt>
+                    <n>Z0653/17</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1703061927</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP RNAV (GNSS) Y RWY 27L ALTERAR TAA NO QUADRANTE NOROESTE,
+CONFORME RUMOS DA CARTA, MODIFICANDO ALTITUDES MINIMAS NO SETOR DE
+6700 PARA 7000
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>0518/ICA/060317</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5049215">	
+                    <id>5049215</id>	
+                    <cod>QPAXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2016-11-14 22:41:00</dt>
+                    <n>Z4276/16</n>                    
+                    <ref>Z4262/16</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1611142246</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[STAR EVSOV 1B - IBDIK 1B RWY 27L/27R CORRIGIR NO QUADRO FALHA DE
+COMUNICAÇÃO PARA: ENTAO, CURVAR A DIREITA PARA INTERCEPTAR
+APROXIMACAO FINAL
+
+REF: AIP MAP STAR
+]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z2931/CGN/141116</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5048290">	
+                    <id>5048290</id>	
+                    <cod>QMNCS</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2016-11-14 11:45:00</dt>
+                    <n>Z4256/16</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1611141145</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[PATIO K (6) ASPH/CONC 100/F/B/W/T E 85/R/B/W/T INSTL
+
+REF: AIP MAP GMC 1 E 2]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z2932/CGN/141116</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>B</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5043656">	
+                    <id>5043656</id>	
+                    <cod>QMNXX</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2016-11-09 19:10:00</dt>
+                    <n>Z4218/16</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1611091913</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[PATIO VIP NR 6 IDENT MODIFICADA PARA PATIO VIP NR 12
+
+REF: AIP MAP GMC 1 E 2]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z2897/CGN/091116</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="5027608">	
+                    <id>5027608</id>	
+                    <cod>QMXLT</cod>
+                    <status>N</status>
+                    <cat>AGA</cat>
+                    <tp>NOTAMR</tp>
+            		<dt>2016-10-27 13:13:00</dt>
+                    <n>Z3982/16</n>                    
+                    <ref>Z3316/15</ref>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1610271313</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[TWY ALFA BTN TWY GOLF E PATIO 1 LTD PARA ACFT ENVERGADURA MAX 65M
+REF: ROTAER 3-S
+     AIP AD 2.8]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W005</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z2678/CGN/271016</origem>
+                    <fir>SBCW</fir>
+                    <traffic>IV</traffic>
+                    <purpose>M</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="4732125">	
+                    <id>4732125</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2016-04-20 17:14:00</dt>
+                    <n>Z1352/16</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1604201714</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP RNAV (GNSS) Y RWY 27L CNL SEGUINTE INFO:
+APROXIMACAO VISUAL RWY 27R: EM CASO DE APROXIMACAO PERDIDA, SUBIR
+PARA 7000 FT, RUMO 275, GRD MNM 5 POR CENTO APOS 4500 FT, CURVAR A
+DIREITA PARA ESPERA EM ANSUG. MAX IAS 230KT.
+
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z0827/CGN/200416</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="4732107">	
+                    <id>4732107</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2016-04-20 16:52:00</dt>
+                    <n>Z1345/16</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1604201652</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP ILS X OU/OR LOC X RWY 27L CNL SEGUINTE INFO:
+APROXIMACAO VISUAL RWY 27R: EM CASO DE APROXIMACAO PERDIDA, SUBIR
+PARA 7000 FT, RUMO 275, GRD MNM 5 POR CENTO A 4500 FT, CURVAR
+IMEDIATAMENTE A DIREITA PARA ESPERA EM ANSUG. MAX IAS 230KT.
+
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z0834/CGN/200416</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="4732092">	
+                    <id>4732092</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2016-04-20 16:49:00</dt>
+                    <n>Z1344/16</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1604201649</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP ILS Y OU/OR LOC Y RWY 27R CNL SEGUINTE INFO:
+APROXIMACAO VISUAL RWY 27L: EM CASO DE APROXIMACAO PERDIDA, SUBIR
+PARA 7000 FT, RDL 270 BCO, GRD MNM 5 POR CENTO A 3300 FT, CURVAR A
+ESQUERDA PARA ESPERA EM RAFA. MAX IAS 230KT.
+
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z0833/CGN/200416</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="4732089">	
+                    <id>4732089</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2016-04-20 16:45:00</dt>
+                    <n>Z1343/16</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1604201645</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP VOR RWY 09L CNL SEGUINTE INFO:
+APROXIMACAO VISUAL RWY 09R: EM CASO DE APROXIMACAO PERDIDA, SUBIR
+PARA 7000 FT, RUMO 095, GRD MNM 5 POR CENTO A 3300 FT, CURVAR A
+DIREITA PARA ESPERA EM RAFA. MAX IAS 230KT.
+
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z0832/CGN/200416</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="4732086">	
+                    <id>4732086</id>	
+                    <cod>QPIXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2016-04-20 16:42:00</dt>
+                    <n>Z1342/16</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1604201644</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[IAP VOR RWY 27R CNL SEGUINTE INFO:
+APROXIMACAO VISUAL RWY 27L: EM CASO DE APROXIMACAO PERDIDA, SUBIR
+PARA 7000 FT,RDL 272 BCO, GRD MNM 5 POR CENTO A 3300 FT, CURVAR A
+ESQUERDA PARA ESPERA EM RAFA. MAX IAS 230KT.
+
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z0831/CGN/200416</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="4552307">	
+                    <id>4552307</id>	
+                    <cod>QPAXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2015-11-10 17:54:00</dt>
+                    <n>Z2991/15</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1511120200</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[STAR - ILSOR 1B RWY 27L/27R MODIFICAR:
+FIXO OPTUK DE LVL MNM FL120 MAX FL130 PARA LVL MNM FL120
+FIXO KOVLA DE LVL MNM FL100 PARA LVL MNM FL100 MAX FL130
+
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z2366/CGN/101115</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            <item id="4552298">	
+                    <id>4552298</id>	
+                    <cod>QPAXX</cod>
+                    <status>N</status>
+                    <cat>ATM</cat>
+                    <tp>NOTAMN</tp>
+            		<dt>2015-11-10 17:44:00</dt>
+                    <n>Z2990/15</n>                    
+                    <ref/>                    
+                            
+                    <loc>SBGR</loc>
+                    <b>1511120200</b>
+                    <c>PERM</c>
+                    <d/>
+                    <e><![CDATA[STAR - ILSOR 1B RWY 09L/09R MODIFICAR:
+FIXO OPTUK DE LVL MNM FL120 MAX FL130 PARA LVL MNM FL120
+FIXO KOVLA DE LVL MNM FL100 PARA LVL MNM FL100 E MAX FL130
+
+REF: AIP MAP]]></e>
+                    <f/>    
+                    <g/>     
+                    <nof>SBRJ</nof>
+                    <s>Z</s>       
+                    <geo>2326S04628W040</geo>
+                    <aero>GUARULHOS - GOVERNADOR ANDRE FRANCO MONTORO</aero>
+                    <cidade>SAO PAULO</cidade>
+                    <uf>SP</uf>
+                    <origem>Z2365/CGN/101115</origem>
+                    <fir>SBCW</fir>
+                    <traffic>I </traffic>
+                    <purpose>NBO</purpose>
+                    <scope>A</scope>
+                    <limits>000/999</limits>
+                    <nof_ref/>
+    	       </item>
+            
+        </notam>
+    </aisweb>
+    
+
+
+    
+
+    
+
+    
+
+
+
+

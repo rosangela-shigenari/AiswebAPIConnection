@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><aisweb>
+	<cartas emenda="2019-12-05" lastupdate="{ts '2019-12-05 21:31:56'}" total="4">
+	
+		
+				
+				
+				
+				
+			
+
+		
+		
+		
+			<item id="7853747e-d36f-4033-b6c7cd172964ce48">
+				<id>7853747e-d36f-4033-b6c7cd172964ce48</id>
+				<especie>Convencionais</especie>
+				<tipo>SID</tipo>
+				<tipo_descr>Carta de saída normalizada - Voo por instrumentos</tipo_descr>
+				<nome><![CDATA[EVLOK 2B - KOTRU 2B - SAT 2B - EKIDI 2B - UBRIR 2B RWY 33]]></nome>
+				<IcaoCode>SBSJ</IcaoCode>
+				<dt>2019-12-05</dt>
+				<link><![CDATA[http://ais.decea.gov.br/download/?arquivo=7853747e-d36f-4033-b6c7cd172964ce48&amp;apikey=1651861654]]></link>
+				<arquivo>sbsj_evlok-2b---kotru-2b---sat-2b---ekidi-2b---ubrir-2b-rwy-33_iac_20191205</arquivo>
+				<kmz/>
+				<aviso/>
+				<icp>SJ00X</icp>
+				<pe>0</pe>
+				<notam/>
+				<tabcode><![CDATA[http://www.aisweb.aer.mil.br/download/?tabela=f99f480f-5730-487e-981bebb265798a16&t=SJ00X]]></tabcode>
+				<suplementos count="0">
+				
+				</suplementos>
+			</item>
+		
+	
+		
+				
+				
+				
+				
+			
+
+		
+		
+		
+			<item id="0a4391fc-3033-1034-a49b-72567f175e3a">
+				<id>0a4391fc-3033-1034-a49b-72567f175e3a</id>
+				<especie>Convencionais</especie>
+				<tipo>SID</tipo>
+				<tipo_descr>Carta de saída normalizada - Voo por instrumentos</tipo_descr>
+				<nome><![CDATA[RNAV KORSA 1A - KOTRU 1A - SAT 1A - SIKEM 1A - UBRIR 1A - USAMO 1A - UBSIL 1A RWY 15]]></nome>
+				<IcaoCode>SBSJ</IcaoCode>
+				<dt>2016-04-28</dt>
+				<link><![CDATA[http://ais.decea.gov.br/download/?arquivo=0a4391fc-3033-1034-a49b-72567f175e3a&amp;apikey=1651861654]]></link>
+				<arquivo>sbsj_rnav-korsa-1a-rwy15_sid_20160428</arquivo>
+				<kmz/>
+				<aviso/>
+				<icp>SJ00U</icp>
+				<pe/>
+				<notam/>
+				<tabcode><![CDATA[http://www.aisweb.aer.mil.br/download/?tabela=97f39a9e-01d3-4780-aa93268b2c0f1736&t=SJ00U]]></tabcode>
+				<suplementos count="0">
+				
+				</suplementos>
+			</item>
+		
+	
+		
+				
+				
+				
+				
+			
+
+		
+		
+		
+			<item id="e516b22a-79a8-1032-8701-72567f175e3a">
+				<id>e516b22a-79a8-1032-8701-72567f175e3a</id>
+				<especie>Convencionais</especie>
+				<tipo>SID</tipo>
+				<tipo_descr>Carta de saída normalizada - Voo por instrumentos</tipo_descr>
+				<nome><![CDATA[DAKAV 1B - EVLOK 1B - KOTRU 1B - SAT 1B - UBRIR 1B RWY 15]]></nome>
+				<IcaoCode>SBSJ</IcaoCode>
+				<dt>2014-09-18</dt>
+				<link><![CDATA[http://ais.decea.gov.br/download/?arquivo=e516b22a-79a8-1032-8701-72567f175e3a&amp;apikey=1651861654]]></link>
+				<arquivo>sbsj_dakav-1b---evlok-1b---kotru-1b---sat-1b---ubrir-1b-rwy-15_sid_20140918</arquivo>
+				<kmz/>
+				<aviso/>
+				<icp/>
+				<pe/>
+				<notam>4554176</notam>
+				<tabcode/>
+				<suplementos count="0">
+				
+				</suplementos>
+			</item>
+		
+	
+		
+				
+				
+				
+				
+			
+
+		
+		
+		
+			<item id="9ed17498-dfd0-1031-95e7-72567f175e3a">
+				<id>9ed17498-dfd0-1031-95e7-72567f175e3a</id>
+				<especie>Convencionais</especie>
+				<tipo>SID</tipo>
+				<tipo_descr>Carta de saída normalizada - Voo por instrumentos</tipo_descr>
+				<nome><![CDATA[RNAV KORSA 1A- KOTRU 1A- SAT 1ASIKEM 1A- SUNLU 1A- UBRIR 1AUSAMO 1A RWY 33]]></nome>
+				<IcaoCode>SBSJ</IcaoCode>
+				<dt>2014-03-06</dt>
+				<link><![CDATA[http://ais.decea.gov.br/download/?arquivo=9ed17498-dfd0-1031-95e7-72567f175e3a&amp;apikey=1651861654]]></link>
+				<arquivo>sbsj_rnav-korsa-1a--kotru-1a--sat-1asikem-1a--sunlu-1a--ubrir-1ausamo-1a-rwy-33_sid_20140306</arquivo>
+				<kmz/>
+				<aviso/>
+				<icp/>
+				<pe/>
+				<notam/>
+				<tabcode/>
+				<suplementos count="0">
+				
+				</suplementos>
+			</item>
+		
+	
+	</cartas>
+	</aisweb>
+    
+
+
+    
+
+    
+
+    
+
+
+
+
